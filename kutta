@@ -1568,3 +1568,83 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="ULS PLus",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
+
+ bangla movies
+
+#EXTINF:-1 tvg-name="Cheeni" tvg-logo="http://timepassbd.live/Admin/main/images/tt13575922/poster/jaOBd811QoAZgTlWFbGviqgvI2D.jpg" group-title="Bangla Movies",Cheeni
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Cheeni%20%282020%29/Cheeni%202021%201080p%20WEB-DL%20H264%20AAC-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Janowar" tvg-logo="https://www.channelionline.com/wp-content/uploads/2020/10/janwar-trailer.jpg" group-title="Bangla Movies",Janowar
+http://bdvisioniptv.ddns.net:25461/movie/tonmay23/7252/1924.mp4
+
+#EXTINF:-1 tvg-name="Troll" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGO17UHMfhKLG9wG0z3jUjm0_rCzyhhqn4Vg&usqp=CAU" group-title="Bangla Movies",Troll
+http://bdvisioniptv.ddns.net:25461/movie/tonmay23/7252/1926.mp4
+
+#EXTINF:-1 tvg-name="Aloukik" tvg-logo="http://timepassbd.live/Admin/main/images/MM39708555/poster/h74l4dA.png" group-title="Bangla Movies",Aloukik
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2021/Aloukik%20%282021%29/Aloukik%20%282021%29%20Bengali%20%20720p%20Addatimes%20WEB-DL%20X264%20AAC%202.0%20-Top10Torrent.site.mkv
+
+#EXTINF:-1 tvg-name="Nabab LLB" tvg-logo="https://dekhobd.com/uploads/video_thumb/1706.jpg" group-title="Bangla Movies",Nabab LLB
+https://cdn1dekhobd.xyz/cdn/down/edbc8725ab7e8b7c974476dd3183a98b/720p_nabab-llb.mp4
+
+#EXTINF:-1 tvg-name="Jaanbaaz" tvg-logo="http://timepassbd.live/Admin/main/images/MM61174512/poster/uhku8A8.jpg" group-title="Bangla Movies",Jaanbaaz
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Jaanbaaz%20%282019%29/Jaanbaaz%202021.mkv
+
+#EXTINF:-1 tvg-name="Kostoneer" tvg-logo="http://timepassbd.live/Admin/main/images/MM63098970/poster/1610639073_9.jpg" group-title="Bangla Movies",Kostoneer
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2021/Kostoneer%20%282021%29/Kostoneer%202021%20%20Bangla%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D.mp4
+
+#EXTINF:-1 tvg-name="WTFRy" tvg-logo="http://timepassbd.live/Admin/main/images/tt13781030/poster/zee5-original-wtfry.png.png" group-title="Bangla Movies",WTFRy
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2021/WTFry%20%282021%29/WTFry.2021.Bengali.Zee5.1080p.WEB-DL.x264.AAC.2.0.Esub%20-%20GrabitBD.mkv
+
+#EXTINF:-1 tvg-name="Joy Ma Kali Boarding" tvg-logo="http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Joy%20Ma%20Kali%20Boarding%20%282020%29/Joy.Ma.Kali.Boarding.%282020%29.1080p.Bengali.WEB-DL.AVC.AAC-DusIcTv.mkv" group-title="Bangla Movies",Joy Ma Kali Boarding
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2021/WTFry%20%282021%29/WTFry.2021.Bengali.Zee5.1080p.WEB-DL.x264.AAC.2.0.Esub%20-%20GrabitBD.mkv
+
+#EXTINF:-1 tvg-name="Love Story" tvg-logo="http://timepassbd.live/Admin/main/images/tt11569822/poster/wvSa3sGfvnAgxjAEGvyu9e4XsY2.jpg" group-title="Bangla Movies",Love Story
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Love%20Story%28Bengali%29%20%282020%29/Love%20Story%202020%20Bengali%20Full%20Movie%20Hdrip%201.3gb.mp4
+
+#EXTINF:-1 tvg-name="Ke Tumi Nandini" tvg-logo="http://timepassbd.live/Admin/main/images/tt10731800/poster/dDcI51q6K7OQQjZQAycLx7rdwLK.jpg" group-title="Bangla Movies",Ke Tumi Nandini
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Ke%20Tumi%20Nandini%20%282019%29/Ke%20Tumi%20Nandini%202019%20WebRip%20Bengali%20720p%20x264%20AAC%20-%20mkvCinemas.mkv
+
+#EXTINF:-1 tvg-name="Password" tvg-logo="http://timepassbd.live/Admin/main/images/tt10912588/poster/bkbklQtXeKDxyRoOf0EdVyEf6Yq.jpg" group-title="Bangla Movies",Password
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Password%20Dev%20%282019%29/Password%20%282019%29%20Bengali%20Zee5%201080%20WEBDL-TimepassBD.mp4
+
+#EXTINF:-1 tvg-name="Hullor" tvg-logo="http://timepassbd.live/Admin/main/images/tt10244472/poster/2U4MwgNi3LAA1MZv7hHOCize25D.jpg" group-title="Bangla Movies",Hullor
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Hullor%20%282020%29/Hullor.2020.1080P.Amzn.Web-Dl.Ddp2.0.H.264-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Debi" tvg-logo="http://timepassbd.live/Admin/main/images/tt6520954/poster/1lCqsNGxArlCgnOSzfoVX8tOIiE.jpg" group-title="Bangla Movies",Debi
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Debi%20%282018%29/DEBI%202018%201080P%20WEB-DL%20ACC.x264.mkv
+
+#EXTINF:-1 tvg-name="Dracula Sir" tvg-logo="http://image.tmdb.org/t/p/w185/bl458v3cVcj6KNu7QhDkQB5sCRj.jpg" group-title="Bangla Movies",Dracula Sir
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Dracula%20Sir%20%282020%29/Dracula%20Sir%20%282020%29%20Bengali%201080p%20UNTOUCHED%20HoiChoi%20WEB-DL%20x264%20AAC%20ESubs%201.8GB%20-%20CineVood.mkv
+
+#EXTINF:-1 tvg-name="Karma" tvg-logo="http://timepassbd.live/Admin/main/images/MM14826162/poster/d.jpg" group-title="Bangla Movies",Karma
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Karma%20%282020%29/KRM_source_MLSBD.CO%2B15f77af04a5afce7.mkv
+
+#EXTINF:-1 tvg-name="Biye.Com" tvg-logo="http://timepassbd.live/Admin/main/images/tt13396982/poster/d.jpg" group-title="Bangla Movies",Biye.Com
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Biye.Com%20%282020%29/Biye.Com.1080p.Zee5.WEB-DL.AAC.x264-DDV.mkv
+
+#EXTINF:-1 tvg-name="Bangla" tvg-logo="http://timepassbd.live/Admin/main/images/tt9639274/poster/5v1oSJZgsj7W3334GQX34fbdIWh.jpg" group-title="Bangla Movies",Bangla
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Bangla%20%282019%29/Bangla%20%282019%29.WEB.1080p.mkv
+
+#EXTINF:-1 tvg-name="Mainkar Chipay" tvg-logo="http://timepassbd.live/Admin/main/images/tt13356580/poster/hbRFBUKaDNQrlMQCSaxsfBZbcet.jpg" group-title="Bangla Movies",Mainkar Chipay
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Mainkar%20Chipay/Mainkar%20Chipay%202020%20Bengali%201080P%20ZEE5%20WEBRIP%20X265%20HEVC-MARC.mkv
+
+#EXTINF:-1 tvg-name="Inspector Notty K" tvg-logo="http://timepassbd.live/Admin/main/images/tt7852120/poster/yE4SdH99m3beLq11bWHj3ZVwv9N.jpg" group-title="Bangla Movies",Inspector Notty K
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Inspector%20Notty%20K%20%282018%29/Inspector%20NottyK%202018%201080p%20AMZN%20WEB-RIP%20H264%20DDP%202.0%20D0T-Telly.mp4
+
+#EXTINF:-1 tvg-name="Swatta" tvg-logo="http://timepassbd.live/Admin/main/images/tt6250604/poster/7Nooqte2NGEwdJsoFIqZrSNrZLZ.jpg" group-title="Bangla Movies",Swatta
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2017/Swatta%20%282017%29/Swatta-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Gotro" tvg-logo="http://timepassbd.live/Admin/main/images/tt10541028/poster/c4LWcqVVcXzYe9orp8WACRJ4apH.jpg" group-title="Bangla Movies",Gotro
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2019/Gotro%20%282019%29/Gotro-TimepassBD.mp4
+
+#EXTINF:-1 tvg-name="Charuulata" tvg-logo="http://timepassbd.live/Admin/main/images/tt2513380/poster/MV5BNDM1NzQyYzUtNTQ1ZS00MzMyLWI3N2EtNDE2MTcyYzE5NzU4XkEyXkFqcGdeQXVyNjA3OTI5MjA@._V1_.jpg" group-title="Bangla Movies",Charuulata
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2012/Charuulata%202011%20%282012%29/Charulata%202011%20%282012%29%20%20Rituparna%20Sengupta%20Arjun%20Chakraborty%20720p%20x264%20HDRip%20AAC.mp4
+
+#EXTINF:-1 tvg-name="Harano Prapti" tvg-logo="http://timepassbd.live/Admin/main/images/MM52055797/poster/Harano-Prapti-2020-Bengali-1080p-HDRip-1.9GB-Download.jpg" group-title="Bangla Movies",Harano Prapti
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Harano%20Prapti%20%282020%29/Harano%20Prapti%202020%20Bengali%201080P%20Zee5%20WEBRiP%20x265%20HEVC%20AAC%20%5Bshadow%5D.mkv
+
+#EXTINF:-1 tvg-name="Brahmadaitya" tvg-logo="http://timepassbd.live/Admin/main/images/tt12583348/poster/175855.jpg" group-title="Bangla Movies",Brahmadaitya
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Brahmadaitya%20%282020%29/Bromhodoityo%202020%20Bengali%201080P%20WEBDL%20x264%20AVC%20AAC%20%5Bshadow%5D%20%21%21Exclusive%21%21.mp4
+
+#EXTINF:-1 tvg-name="Tasher Ghawr" tvg-logo="http://timepassbd.live/Admin/main/images/tt12923150/poster/riXurapZFxutBa19R5b5mTEIma2.jpg" group-title="Bangla Movies",Tasher Ghawr
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Tasher%20Ghawr%20%282020%29/Tasher%20Ghawr%20%282020%29%201080p%20WEB-DL%20AVC%20AAC-%5BDemonKing%5D.mp4
