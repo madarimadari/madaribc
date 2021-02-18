@@ -1,6 +1,11 @@
+                                            bangladeshi channel
+
 #EXTM3U
 #EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://2.bp.blogspot.com/-X0463VRpcpM/WEaaUATDuNI/AAAAAAAAFhw/UYHQuv64BGUhu6dcIerrb2HT7QbmKuQuwCLcB/s1600/asian-tv.jpg" group-title="Bangladeshi Channel",Asian TV
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/91.m3u8
+
+#EXTINF:-1 tvg-name="AB Tv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnisf4-WHDpPHsTUb-YNhEkUPC1Kg-JKGFU39mOehQ=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi Channel",AB Tv
+https://cdn.priyoiptv.com:444/priyoiptv/rangiptv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangladeshi Channel",ATN Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/204.m3u8
@@ -119,6 +124,8 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/220.m3u8
 #EXTINF:-1 tvg-name="Somoy" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangladeshi Channel",Somoy
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/146.m3u8
 
+                                           indian bangla channel
+
 #EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/722355_ico.png?ts=1613154340" group-title="Indian Bangla Channel",ABP Ananda
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/90.m3u8
 
@@ -161,9 +168,6 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/863.m3u8
 #EXTINF:-1 tvg-name="Sun Bangla" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7364080_ico.png?ts=1613156952" group-title="Indian Bangla Channel",Sun Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/800.m3u8
 
-#EXTINF:-1 tvg-name="Enterr 10 Bangla" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/2228136_ico.png?ts=1613475691" group-title="Indian Bangla Channel",Enterr 10 Bangla
-http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/704.m3u8
-
 #EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Indian Bangla Channel",Zee Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/192.m3u8
 
@@ -172,6 +176,8 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/865.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Indian Bangla Channel",Zee Bangla Cinema
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/667.m3u8
+
+                                                    hindi channels
 
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Channel",Colors HD
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/105.m3u8
@@ -344,6 +350,8 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/in
 #EXTINF:-1 tvg-name="WoW CINEMA" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Hindi Channel",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 
+                                                       sports channel
+
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://www.seekpng.com/png/detail/372-3722669_star-sports-1-live-streaming-high-quality-star.png" group-title="Sports Channel",Star sports 1
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/661.m3u8
 
@@ -473,6 +481,8 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/768.m3u8
 #EXTINF:-1 tvg-name="Viasat Sport" tvg-logo="https://iconape.com/wp-content/files/hg/282974/png/282974.png" group-title="Sports Channel",Viasat Sport
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/720.m3u8
 
+                                                         international news channel
+
 #EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/Mxm77nQ.png" group-title="International News Channel",Al Jazeera
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/87.m3u8
 
@@ -563,13 +573,13 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="WEATHER NATION" tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="International News Channel",WEATHER NATION
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:-1 tvg-name="Amar Ujala" tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="International News Channel",Amar Ujala
+#EXTINF:-1 tvg-name="Amar Ujala" tvg-logo="https://i.imgur.com/9n02RJU.jpg" group-title="International News Channel",Amar Ujala
 https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ET Now" tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="International News Channel",ET Now
+#EXTINF:-1 tvg-name="ET Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png" group-title="International News Channel",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 
-#EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://i.imgur.com/iwQc4dx.jpg" group-title="International News Channel",Dunya News
+#EXTINF:-1 tvg-name="Dunya News" tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="International News Channel",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
 
 #EXTINF:-1 tvg-name="Khyber News" tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="International News Channel",Khyber News
@@ -577,6 +587,88 @@ http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="International News Channel",NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+
+                                                      Religious channel
+
+#EXTINF:-1 tvg-name="Al Aqsa TV" tvg-logo="https://www.terrorism-info.org.il/data/articles/Art_18131/hamas_099_3.jpg" group-title="Religious Channel",Al Aqsa TV
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Istiqama TV" tvg-logo="https://img.iptvmate.net/5e933b41b3bdf92f6965c700.png" group-title="Religious Channel",Al Istiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 tvg-name="Al Wesal TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-wesal-tv.jpg" group-title="Religious Channel",Al Wesal TV
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bahrain Quran TV" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2002112204140-L.jpg" group-title="Religious Channel",Bahrain Quran TV
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
+
+#EXTINF:-1 tvg-name="Bible Explorations" tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="Religious Channel",Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hadi TV 1" tvg-logo="https://i.vimeocdn.com/portrait/5136072_640x640" group-title="Religious Channel",Hadi TV 1
+https://mn-nl.mncdn.com/haditv_live1/smil:haditv_live1.smil/chunklist_b896000.m3u8
+
+#EXTINF:-1 tvg-name="IIPC TV" tvg-logo="https://www.iipccanada.com/wp-content/uploads/2016/05/iipc_origin.jpg" group-title="Religious Channel",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8?fluxusfaith.m3u8
+
+#EXTINF:-1 tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iqraa" tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Religious Channel",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 tvg-name="Makkah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MTA 1 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="Religious Channel",MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+
+#EXTINF:-1 tvg-name="MTA 1 Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="Religious Channel",MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+
+#EXTINF:-1 tvg-name="MTA World" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-mta-international-3683.jpg" group-title="Religious Channel",MTA World
+https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+
+#EXTINF:-1 tvg-name="Noor TV UK" tvg-logo="https://www.thenoor.tv/wp-content/uploads/2020/08/Noor-tv-heder-logo-copy-1.png" group-title="Religious Channel",Noor TV UK
+https://ls1.serverdump.com/stream3.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV" tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png" group-title="Religious Channel",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Religious Channel",Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Religious Channel",Peace TV Bangla
+https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV English" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Religious Channel",Peace TV English
+http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV English" tvg-logo="https://pbs.twimg.com/media/Dhz7Kw8U8AIMcyG.png" group-title="Religious Channel",Peace TV English
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="Religious Channel",Saudi Quran
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Sunnah" tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="Religious Channel",Saudi Sunnah
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:-1 tvg-name="The Islamic Network" tvg-logo="https://i.imgur.com/Z2Io8n4.png" group-title="Religious Channel",The Islamic Network
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Iqra Bangla TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Religious Channel",Iqra Bangla TV
+https://rhridoy136.shortcm.li/iqrabangla.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV Urdu" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Religious Channel",Peace TV Urdu
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Shubhsandesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Religious Channel",Shubhsandesh
+http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-name="Swamiji TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Religious Channel",Swamiji TV
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
+
+                                                         Informative Channel
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
@@ -700,6 +792,8 @@ https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 
 #EXTINF:-1 tvg-name="TLC [HINDI]" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Informative Channel",TLC [HINDI]
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+
+                                                                        music channel
 
 #EXTINF:-1 tvg-name="Gaan Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/gaanbangla.jpg?x91288" group-title="Music Channel",Gaan Bangla
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/121.m3u8
@@ -1164,7 +1258,7 @@ http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-name="1HD Music" tvg-logo="" group-title="Music Channel",1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="Music Channel",Desi Channel
+#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="" group-title="Music",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-name="Sakkat" tvg-logo="" group-title="Music Channel",Sakkat
@@ -1199,6 +1293,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 
 #EXTINF:-1 tvg-name="MTV WMA" tvg-logo="" group-title="Music Channel",MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+                                                          kids channel
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Kids Channel",Cartoon Network
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/148.m3u8
@@ -1275,6 +1371,8 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1 tvg-name="Jiajia Cartoon" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="Kids Channel",Jiajia Cartoon
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
+                                                             lifestyle channel
+
 #EXTINF:-1 tvg-name="NatGeo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Lifestyle Channel",NatGeo People
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/137.m3u8
 
@@ -1334,6 +1432,8 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Food 52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Lifestyle Channel",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+
+                                                        English Movie Channel
 
 #EXTINF:-1 tvg-name="Fox" tvg-logo="https://www.nicepng.com/png/detail/9-99565_fox-tv-logo-png.png" group-title="English Movie Channel",Fox
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/117.m3u8
@@ -1427,6 +1527,8 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/848.m3u8
 
 #EXTINF:-1 tvg-name="Ren Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1200px-REN_TV_logo_2017.svg.png" group-title="English Movie Channel",Ren Tv
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/852.m3u8
+
+                                                         ULS PLus
 
 #EXTINF:-1 tvg-name="ABZY MOVIES" tvg-logo="" group-title="ULS PLus",ABZY MOVIES
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
@@ -1569,7 +1671,7 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="ULS PLus",黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
 
- bangla movies
+                                                             bangla movies
 
 #EXTINF:-1 tvg-name="Cheeni" tvg-logo="http://timepassbd.live/Admin/main/images/tt13575922/poster/jaOBd811QoAZgTlWFbGviqgvI2D.jpg" group-title="Bangla Movies",Cheeni
 http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Cheeni%20%282020%29/Cheeni%202021%201080p%20WEB-DL%20H264%20AAC-TimepassBD.mkv
@@ -1652,7 +1754,7 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Tasher%20Ghawr%20
 #EXTINF:-1 tvg-name="Detective" tvg-logo="http://timepassbd.live/Admin/main/images/tt12676972/poster/9p0BJK9IRL3idVNcLS7Nnww5z9M.jpg" group-title="Bangla Movies",Detective
 http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2020/Detective%20%282020%29/Detective.2020.Bengali.hoichoi.WEB-DL.AAC.2CH.Esub.x264.BonsaiHD.mkv
 
-Hindi Movies
+                                                           Hindi Movies
 
 #EXTINF:-1 tvg-name="Lahore Confidential" tvg-logo="http://timepassbd.live/Admin/main/images/tt13199556/poster/n9RE7wiM94E1f0GWr2OCjnYfBuJ.jpg" group-title="Hindi Movies",Lahore Confidential
 http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2021/Lahore%20Confidential%20%282021%29/Lahore%20Confidential%20%282021%29%20Hindi%201080p%20WEB-DL%201.2GB%20ESub-TimepassBD.mkv
@@ -1726,7 +1828,7 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Anwar%20Ka%20Ajab%
 #EXTINF:-1 tvg-name="Ludo" tvg-logo="http://timepassbd.live/Admin/main/images/tt7212754/poster/frB57nMDmu4NnSzjmrq0lEx5iod.jpg" group-title="Hindi Movies",Ludo
 http://ftp.timepassbd.live/skyview-ftp/ftp2/HINDI_MOVIES/2020/Ludo/Ludo.2020.Hindi.720p.NF.WEB-DL.AAC2.0.x264-BonsaiHD.mkv
 
-Hollywood Movies
+                                                        Hollywood Movies
 
 #EXTINF:-1 tvg-name="PVT Chat" tvg-logo="http://timepassbd.live/Admin/main/images/tt8110004/poster/tvGBoCe0IPRlpwx5QsrRrcMmuLT.jpg" group-title="Hollywood Movies",PVT Chat
 http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/PVT%20CHAT%20%282020%29/PVT.CHAT.2020.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
@@ -1797,7 +1899,7 @@ http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/The%20Dissident%
 #EXTINF:-1 tvg-name="The Night They Knocked" tvg-logo="http://timepassbd.live/Admin/main/images/tt7588822/poster/AjlVJ8y62Sx34eXsugV4htv8wpQ.jpg" group-title="Hollywood Movies",The Night They Knocked 
 http://ftp.timepassbd.live/skyview-ftp/ftp1/ENGLISH_MOVIES/2020/The%20Night%20They%20Knocked%20%282020%29/The.Night.They.Knocked.2020.1080p.WEB-DL.mkv
 
-south indian movies
+                                                        south indian movies
 
 #EXTINF:-1 tvg-name="47 Days The Mystery Unfolds" tvg-logo="http://timepassbd.live/Admin/main/images/tt8004570/poster/tbz4cSTTZElk6beZi6x2ySymd3j.jpg" group-title="South Indian Movies",47 Days The Mystery Unfolds 
 http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/47%20Days%20The%20Mystery%20Unfolds%20%282020%29/47%20Days%20The%20Mystery%20Unfolds%20%282020%29%20Telugu%20720p%20WEB-DL%20800MB%20ESub%20%5BBollYFlix%5D.mkv
@@ -1867,3 +1969,65 @@ http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/BomBhaat%20
 
 #EXTINF:-1 tvg-name="Mafia" tvg-logo="http://image.tmdb.org/t/p/w185/ukaXSfyN1RoTKQ34YgjyBOd4ZhQ.jpg" group-title="South Indian Movies",Mafia 
 http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2020/Mafia%20Chapter%201%20%282020%29/Mafia%20Chapter%201%20%282020%29%5BTamil%20Proper%201080p%20HD%20AVC%20DDP%205.1%20-%20x264%20-%201.9GB%20-%20ESubs%5D.mkv
+
+                                                      south hindi dubbed
+
+#EXTINF:-1 tvg-name="Master" tvg-logo="http://timepassbd.live/Admin/main/images/tt10579952/poster/sxhq8VXCmFuFIHC1LKW1b8ZCXaf.jpg" group-title="South Hindi Dubbed",Master 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2021/Master%20%282021%29/Master%20%282021%29%20UNCUT%20Dual%20Audio%20%7BHindi%20%28HQ%29-Tamil%7D%201080p%20HDRip%203.6GB%20ESub-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Solo Brathuke So Better" tvg-logo="http://timepassbd.live/Admin/main/images/tt11433696/poster/7sOIZkQ2X0kLpN1NYqsXMUrUGXn.jpg" group-title="South Hindi Dubbed",Solo Brathuke So Better 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2020/Solo%20Brathuke%20So%20Better%20%282020%29/Solo%20Brathuke%20So%20Better%20%282021%29%201080p%20Hindi%20TRUE%20WEB-DL%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.8GB%20-%20ESub-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Raani" tvg-logo="http://timepassbd.live/Admin/main/images/tt11924162/poster/unnamed.jpg" group-title="South Hindi Dubbed",Raani 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2020/Raani%20%282020%29/Raani%202021%20WebRip%201080p%20Hindi%20AAC%202.0%20x264%20ESub%20-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Naanum Rowdydhaan" tvg-logo="http://timepassbd.live/Admin/main/images/tt5128328/poster/1fWnzmBxZMEJZZATogoMPebazYB.jpg" group-title="South Hindi Dubbed",Naanum Rowdydhaan 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2015/Naanum%20Rowdy%20Dhaan%20%282015%29/Naanum%20Rowdy%20Dhaan%20%28Bundalbaaz%29%20%282015%29%20Hindi%20Dubbed-TimepassBD.mp4
+
+#EXTINF:-1 tvg-name="Guardian" tvg-logo="http://timepassbd.live/Admin/main/images/tt13711212/poster/ejPYCoYUzRtnOD2zcWmxQIL6GbP.jpg" group-title="South Hindi Dubbed",Guardian 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2021/Guardian%20%282021%29/Guardian%20%282021%29%20720p%20Malayalam%20HDRip%20x264%20AAC%201.4GB.mkv
+
+#EXTINF:-1 tvg-name="Solo Brathuke So Better" tvg-logo="http://timepassbd.live/Admin/main/images/tt11433696/poster/7sOIZkQ2X0kLpN1NYqsXMUrUGXn.jpg" group-title="South Hindi Dubbed",Solo Brathuke So Better 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2020/Solo%20Brathuke%20So%20Better%20%282020%29/Solo%20Brathuke%20So%20Better%20%282021%29%201080p%20Hindi%20TRUE%20WEB-DL%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.8GB%20-%20ESub-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Arjun Reddy" tvg-logo="http://timepassbd.live/Admin/main/images/tt7294534/poster/mTxbUREJ42WbLekdrW0VoZmgG8E.jpg" group-title="South Hindi Dubbed",Arjun Reddy 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/SOUTH_INDIAN_MOVIES/2017/Arjun%20Reddy%20%282017%29/Arjun%20Reddy%202017%20WebRip%20Hindi%20720p%20x264%20AAC%20-%20mkvCinemas%20%5BTelly%5D.mkv
+
+#EXTINF:-1 tvg-name="Jai Lava Kusa" tvg-logo="http://timepassbd.live/Admin/main/images/tt6861726/poster/uM4QeWS6dgLWGlZpE2XKa3GUnms.jpg" group-title="South Hindi Dubbed",Jai Lava Kusa 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2017/Jai%20Lava%20Kusa%20%282017%29/Sagodharargal%20%28Jai%20Lava%20Kusa%29%20%282020%29%20HDRip%20-%201080p%20-%20Org%20Auds%20%5BTam%20%2B%20Tel%20%2B%20Hin%5D-TimepassBD.mkv
+
+#EXTINF:-1 tvg-name="Dev" tvg-logo="http://timepassbd.live/Admin/main/images/tt8751976/poster/AgvDjOzWMISPYmFsW42ZOpzPrCc.jpg" group-title="South Hindi Dubbed",Dev 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019/Dev%20%282019%29/Dev%20%282019%29%201080p%20Hindi%20Dubbed%20Full%20Movie%20-%20Karthi%2C%20Rakul%20Preet%20Singh%2C%20Prakash%20Raj%2C%20Ramya.mp4
+
+#EXTINF:-1 tvg-name="Jersey" tvg-logo="http://timepassbd.live/Admin/main/images/tt8948790/poster/bU9q9yVtxeBiC0Do27CekHXNE6D.jpg" group-title="South Hindi Dubbed",Jersey 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Jersey%20(2019)/Jersey%20(2019)%20720p%20Hindi%20Dubbed%20Full%20Movie%20-%20Nani,%20Shraddha%20Srinath,%20Sathyaraj,%20Sanusha.mp4
+
+#EXTINF:-1 tvg-name="Kanchana 3" tvg-logo="http://timepassbd.live/Admin/main/images/tt8042248/poster/r01e7wDHHFl2WaXBBzMhGoZg50t.jpg" group-title="South Hindi Dubbed",Kanchana 3 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Kanchana%203%20(2019)/Kanchana%203%20(2019)%20Hindi%20Dubbed%201080p%20WEBRip%20x264%202.5GB.mkv
+
+#EXTINF:-1 tvg-name="Lucifer" tvg-logo="http://timepassbd.live/Admin/main/images/tt6067752/poster/fXgY2RCzoIJPhPDoyKRjaaqjIZs.jpg" group-title="South Hindi Dubbed",Lucifer 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Lucifer%20(2019)/Lucifer%20(2019)%20Hindi%20Dubbed%20720p%20HDRip%20x264%20ESub%20-%20MovCr.mkv
+
+#EXTINF:-1 tvg-name="Saaho" tvg-logo="http://image.tmdb.org/t/p/w185/77FDa56d6fueqMSu3bmopJFJmJr.jpg" group-title="South Hindi Dubbed",Saaho 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//SAAHO%20(2019)/SAAHO%20(2019)%20Hindi%20Proper%20WEB-HD%20-%201080p%20-%20AVC%20-%20HQ%20Line%20Aud%20-%202.5GB%20-%20ESub.mp4
+
+#EXTINF:-1 tvg-name="Junga" tvg-logo="http://timepassbd.live/Admin/main/images/tt7483340/poster/w8St0xtX8nc2EnIHhXIwRX45K5e.jpg" group-title="South Hindi Dubbed",Junga 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//Junga%20(2018)/Junga%20(2018)%20UNCUT%20Dual%20Audio%20720p%20HDRip%20[Hindi-Tamil]%20x264%201.6GB%20ESubs%20.mkv
+
+#EXTINF:-1 tvg-name="Junga" tvg-logo="http://timepassbd.live/Admin/main/images/tt6929642/poster/xVAZZN4Av3e6YxwLgUWTYDNtta1.jpg" group-title="South Hindi Dubbed",Junga 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//Kaala%20(2018)/Kaala.2018.Hindi.Dubbed.720p.HDRip.x264.AC3.-.Hon3yHD.mkv
+
+#EXTINF:-1 tvg-name="Maari 2" tvg-logo="http://image.tmdb.org/t/p/w185/74cJLMYdFvmTAYXAdvmaSdLy3Xf.jpg" group-title="South Hindi Dubbed",Maari 2 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//Maari%202%20(2018)/Maari%202%20Hindi%20720p%20UNCUT%20HDRip%20x264%20ESubs%20[Dual%20Audio].mkv
+
+#EXTINF:-1 tvg-name="U Turn" tvg-logo="http://timepassbd.live/Admin/main/images/tt8733898/poster/d5wL2axBtieecnAD6X4HMgrkXGp.jpg" group-title="South Hindi Dubbed",U Turn 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2018//U%20Turn%20(2018)/U-Turn%202018%20WebRip%20Hindi%201080p%20x264%20DDP%202.0%20ESub.mkv
+
+#EXTINF:-1 tvg-name="Kaithi" tvg-logo="http://timepassbd.live/Admin/main/images/tt9900782/poster/hOF9CgPsy9aLr5GJEBESC8MEXFy.jpg" group-title="South Hindi Dubbed",Kaithi 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019/Kaithi%20%282019%29/Kaithi%20%282020%29-%20TimepassBD.mp4
+
+#EXTINF:-1 tvg-name="Comali" tvg-logo="http://timepassbd.live/Admin/main/images/tt10711648/poster/AvtepCkbx7772EOGn7na3ItSRq8.jpg" group-title="South Hindi Dubbed",Comali 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Comali%20(2019)/Comali%20(2020)%201080p%20WEB-HD%20New%20Released%20Full%20Hindi%20Dubbed%20Movie%20-%20Jayam%20Ravi,%20Kajal%20Aggarwal,%20Samyuktha%20Hegde.mkv
+
+#EXTINF:-1 tvg-name="Hawaa" tvg-logo="http://image.tmdb.org/t/p/w185/4tgSwJwzYCkFP4XhsyT0NCcsDbn.jpg" group-title="South Hindi Dubbed",Hawaa 
+http://ftp.timepassbd.live/skyview-ftp/ftp1/DUBBED_MOVIES/SOUTH_DUBBED_MOVIE/2019//Hawaa%20(2019)/Hawaa%20(2019)%20UNCUT%20720p%20HDRip%20x264%20ESub%20[Dual%20Audio][Hindi%20DD2.0+Telugu%20DD5.1].mkv
